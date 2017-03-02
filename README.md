@@ -1,2 +1,0 @@
-# mvs
-GitHub Pages
